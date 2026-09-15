@@ -3,4 +3,5 @@ torch
 torchvision
 torchmetrics
 matplotlib
-PyQt5
+PyQt6
+opencv-python
